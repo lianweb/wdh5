@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1200px;
+}
+.one{
+    height: 20%;
+    background-color: #ff0;
+}
+.two{
+    height: 30%;
+    background-color: #0ff;
+}
